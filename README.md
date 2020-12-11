@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**kene111/kene111** is a ✨ web developer and machine learning engineer ✨ who enjoys buidling models and integrating them into web applications. He reads research papers and  writes his summaries [here](https://kenechiojukwu.medium.com/). On his spare time he partakes in kaggle data science challenges. He is also intrested in robotics.
+**kene111** is a ✨ web developer and machine learning engineer ✨ who enjoys buidling models and integrating them into web applications. He reads research papers and  writes his summaries [here](https://kenechiojukwu.medium.com/). On his spare time he partakes in kaggle data science challenges. He is also intrested in robotics.
 
 
 - 🔭 I’m currently working on interesting projects.
