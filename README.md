@@ -3,7 +3,6 @@
 
 **kene111/kene111** is a ✨ web developer and machine learning engineer ✨ who enjoys buidling models and integrating them into web applications. He reads research papers and  writes his summaries [here](https://kenechiojukwu.medium.com/). On his spare time he partakes in kaggle data science challenges. He is also intrested in robotics.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on interesting projects.
 - 🌱 I’m currently learning Machine Learning operations with kubeflow.
@@ -13,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Email](kenechiojukwu@gmail.com) [LinkedIn](https://www.linkedin.com/in/kenechi-ojukwu-413272173/)
 - 😄 I am open to work.
 
-- ⚡ Fun fact:
+⚡ Fun fact:
 - I love Anime.
 - On some days I just want to relax.
 
