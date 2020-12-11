@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on more interesting projects.
 - 🤔 I’m looking to become a better a developer.
 - 💬 Ask me about data science, machine learning, web development with django and  react.js.
-- 📫 How to reach me: [Email](kenechiojukwu@gmail.com) [LinkedIn](https://www.linkedin.com/in/kenechi-ojukwu-413272173/)
+- 📫 How to reach me: [Email](kenechiojukwu@gmail.com),  [LinkedIn](https://www.linkedin.com/in/kenechi-ojukwu-413272173/)
 - 😄 I am open to work.
 
 ⚡ Fun fact:
