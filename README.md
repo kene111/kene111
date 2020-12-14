@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on interesting projects.
 - 🌱 I’m currently learning Machine Learning operations with kubeflow.
 - 👯 I’m looking to collaborate on more interesting projects.
-- 🤔 I’m working to become a better a developer.
+- 🤔 I’m working to become a better a software engineer.
 - 💬 Ask me about data science, machine learning, web development with django and  react.js.
 - 📫 How to reach me: [Email](kenechiojukwu@gmail.com),  [LinkedIn](https://www.linkedin.com/in/kenechi-ojukwu-413272173/)
 - 😄 I am open to work.
