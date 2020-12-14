@@ -13,6 +13,5 @@
 - 😄 I am open to work.
 
 ⚡ Fun fact:
-- I love Anime.
 - On some days I just want to relax.
 
