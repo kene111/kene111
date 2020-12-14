@@ -13,5 +13,5 @@
 - 😄 I am open to work.
 
 ⚡ Fun fact:
-- On some days I just want to relax.
+- On some days, I just want to relax.
 
