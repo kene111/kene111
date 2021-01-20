@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on interesting projects.
-- 🌱 I’m currently enrolled in a course and learning Machine Learning operations with kubeflow.
+- 🌱 I’m currently enrolled in a course and is learning Machine Learning operations with kubeflow.
 - 👯 I’m looking to collaborate on more interesting projects.
 - 🤔 I’m working to become a better a software engineer.
 - 💬 Ask me about data science, machine learning, web development with django and  react.js.
