@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on interesting projects.
-- 🌱 I’m currently enrolled in a course and is learning Machine Learning operations.
+- 🌱 I’m currently enrolled in a course and is learning Machine Learning Operations.
 - 👯 I’m looking to collaborate on more interesting projects.
 - 🤔 I’m working to become a better a machine learning engineer and back-end web developer.
 - 💬 Ask me about data science, machine learning, web development with django and maybe a little react.js.
