@@ -10,7 +10,7 @@
 - 🤔 I’m working to become a better a machine learning engineer and back-end web developer.
 - 💬 Ask me about data science, machine learning, web development with django and maybe a little react.js.
 - 📫 How to reach me: [Email](kenechiojukwu@gmail.com),  [LinkedIn](https://www.linkedin.com/in/kenechi-ojukwu-413272173/)
-- 😄 I intern at curacel as a data scientist.
+- 😄 I work at curacel as a data scientist.
 
 ⚡ Fun fact:
 - On some days, I just want to relax.
