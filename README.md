@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**kene111** is a ✨machine learning engineer and a back-end developer ✨ who enjoys buidling models and integrating them into software applications. He reads research papers, machine learning articles and new software concepts and  writes his summaries [here](https://kenechiojukwu.medium.com/). On his spare time he works on intresting projects or partakes in machine learning/software challenges. He is also intrested in robotics.
+**kene111** is a python developer with specialization in ✨machine learning engineering and back-end developement ✨. He enjoys finding innovative ways to improve the performance of software products through the use of artificial intelligence. He reads research papers, articles and new software engineering concepts and  writes his summaries [here](https://kenechiojukwu.medium.com/). On his spare time he works on intresting projects or partakes in machine learning/software challenges. He is also intrested in robotics.
 
 
 - 🔭 I’m currently working on interesting projects.
