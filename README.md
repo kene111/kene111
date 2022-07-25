@@ -8,4 +8,4 @@
 - 🌱 I’m interested in building self-maintaining machine learning systems.
 - 🤔 I’m always working on becoming a better software engineer.
 - 📫 How to reach me: [Email](kenechiojukwu@gmail.com),  [LinkedIn](https://www.linkedin.com/in/kenechi-ojukwu-413272173/)
-- 😄 I work at curacel as a machine learning engineer.
+
