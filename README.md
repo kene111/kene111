@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hellooo 👋
 
 
 **kene111** is a python developer with specialization in ✨machine learning research engineering ✨. He enjoys finding innovative ways to improve the performance of software products through the use of artificial intelligence. He reads research papers, articles and new software engineering concepts and  writes his summaries [here](https://kenechiojukwu.medium.com/). On his spare time he works on intresting projects. He is also a big fan of psychology. 
